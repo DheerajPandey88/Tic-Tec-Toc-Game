@@ -1,43 +1,41 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Tic Tac Toe</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <nav>
-      <ul>
-        <li>MyTicTacToe.com</li>
-      </ul>
-    </nav>
+Tic Tac Toe Game 🎮
 
-    <div class="gameContainer">
-        <div class="container">
-          <div class="line"></div>
-        <div class="box bt-0 bl-0"><span class="boxtext"></span></div>
-        <div class="box bt-0"><span class="boxtext"></span></div>
-        <div class="box bt-0 br-0"><span class="boxtext"></span></div>
-        <div class="box bl-0"><span class="boxtext"></span></div>
-        <div class="box"><span class="boxtext"></span></div>
-        <div class="box br-0"><span class="boxtext"></span></div>
-        <div class="box bl-0 bb-0"><span class="boxtext"></span></div>
-        <div class="box bb-0"><span class="boxtext"></span></div>
-        <div class="box bb-0 br-0"><span class="boxtext"></span></div>
-      </div>
-      <div class="gameInfo">
-        <h1>Welcome to Tic Tac MyTicTacToe</h1>
-        <div>
-          <span class="info">Turn for X</span>
-          <button id="reset">Reset</button>
-        </div>
-        <div class="imgbox">
-          <img src="excited.gif" alt="" />
-        </div>
-      </div>
-    </div>
-    <script src="script.js"></script>
-  </body>
-</html>
+A classic Tic Tac Toe game built using HTML, CSS, and JavaScript. Playable directly in your browser with a simple and interactive interface.
+
+Features ✨
+
+Two-player gameplay (Player X vs Player O)
+
+Simple, clean, and responsive design
+
+Game status updates: shows current player and winner
+
+Option to restart the game at any time
+
+Built entirely with vanilla JavaScript (no external libraries)
+
+Demo 💻
+
+Open index.html in your browser to start playing.
+
+How to Play 🕹️
+
+Players take turns to mark a cell with X or O.
+
+The first player to get 3 marks in a row (horizontally, vertically, or diagonally) wins.
+
+If all cells are filled without a winner, the game ends in a draw.
+
+Click Restart to play again.
+
+Technologies Used 🛠️
+
+HTML5
+
+CSS3
+
+JavaScript (ES6)
+
+VS Code for development
+
+Screenshots 📸
