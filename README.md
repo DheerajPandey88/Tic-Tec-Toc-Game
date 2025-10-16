@@ -8,8 +8,6 @@ Play the classic **Tic Tac Toe game** right in your browser! Built with **HTML, 
 - Option to restart the game at any time
 - Built entirely with **vanilla JavaScript** (no external libraries)
 
-## Demo 💻
-Open `index.html` in your browser to start playing.
 
 ## How to Play 🕹️
 1. Players take turns to mark a cell with **X** or **O**.
@@ -26,8 +24,3 @@ Open `index.html` in your browser to start playing.
 ## Screenshots 📸
 ![Tic Tac Toe Screenshot](https://github.com/DheerajPandey88/Tic-Tec-Toc-Game/blob/1e12eee0ec3dbe695dd59953fe1d381d72c5ddbd/Screenshot%202025-10-16%20224521.png)
 
-## Contributing 🤝
-Feel free to fork the repository, suggest features, or submit bug fixes.
-
-## License 📄
-This project is open-source and available under the MIT License.
